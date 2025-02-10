@@ -9,7 +9,7 @@ SMTP_SERVER = "smtp.gmail.com"  # Change smtp.______" for other emails
 SMTP_PORT = 587
 EMAIL_SENDER = "your_email@gmail.com"
 EMAIL_PASSWORD = "your_app_password"    # Use an App Password, not your actual password
-EMAIL_ RECEIVER = "it_admin@example.com"
+EMAIL_RECEIVER = "it_admin@example.com"
 
 
 # Read CSV Data
