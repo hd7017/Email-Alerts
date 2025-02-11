@@ -1,0 +1,11 @@
+DeviceID,Type,Model,PurchaseDate,WarrantyYears,IP Address,Status,License Expiration
+101,Laptop,Dell XPS,2022-02-15,2,192.168.1.5,Online,2025-06-30
+102,Server,HP ProLiant,2020-08-20,4,192.168.1.10,Offline,2024-02-15
+103,Desktop,Lenovo ThinkCentre,2021-10-10,3,192.168.1.15,Online,2024-12-01
+104,Router,Cisco RV340,2019-06-05,5,192.168.1.1,Online,2025-03-20
+105,Firewall,Fortinet 60E,2023-01-25,2,192.168.1.2,Offline,2026-07-15
+106,Switch,Netgear GS108,2022-09-30,3,192.168.1.3,Online,2026-09-30
+107,Laptop,HP EliteBook,2021-05-22,2,192.168.1.7,Offline,2024-08-10
+108,Printer,HP LaserJet 4100,2018-11-12,6,192.168.1.8,Online,2025-02-28
+109,Access Point,Ubiquiti UAP-AC-LR,2020-04-17,5,192.168.1.9,Online,2025-09-15
+110,Server,Dell PowerEdge R740,2019-12-30,4,192.168.1.11,Offline,2024-11-10
