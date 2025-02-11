@@ -9,11 +9,8 @@ Features
 - Warranty Expiration Alerts
 - Offline Network Device Detection
 - Live Network Status check (Ping Test)
+- Automated email notifications
 
 Future Updates
-- Automated Email Notifications
 - Add a Flask/React web dashboard for live status updates
 - Only send email alerts during specific hours (working hours)
-
-***NOTES***
-All sample data is auto generated and is therefore fictional. Do not use personal info or passwords.
